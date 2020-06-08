@@ -19,7 +19,7 @@ For each test case if Ashish wins the game print "Ashish" otherwise print "Vivek
 Input :
 4
 2 2
-0 0
+0 0 
 0 0
 2 2
 0 0
